@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a Full Stack Web Developer specializing in Node.js, Express, MongoDB, and JavaScript.<br>
 I build complete web applications from scratch and help businesses fix bugs and add features to existing sites.<br>
-Currently in 3rd year of BS Computer Science at Sukkur IBA University with a 3.7+ CGPA.<br>
 I've built a full stack video sharing platform, an AI-based chess position classifier, and multiple database-driven systems.<br>
 Ask me about Node.js, REST APIs, MongoDB, JavaScript, or full stack web development.<br>
 Fun fact: I enjoy building real, working products to learn — not just tutorial projects.
